@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/encoding"
-	"github.com/devopsfaith/krakend/transport/http/client"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/encoding"
+	"github.com/khvysofq/krakend/transport/http/client"
 )
 
 func TestNewHTTPProxy_ok(t *testing.T) {

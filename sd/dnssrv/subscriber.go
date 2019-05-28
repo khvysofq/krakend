@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/sd"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/sd"
 )
 
 // Namespace is the key for the dns sd module

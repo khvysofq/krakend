@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/encoding"
-	"github.com/devopsfaith/krakend/proxy"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/encoding"
+	"github.com/khvysofq/krakend/proxy"
 )
 
 // Render defines the signature of the functions to be use for the final response

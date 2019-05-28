@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/khvysofq/krakend/config"
 )
 
 func TestNewConcurrentMiddleware_ok(t *testing.T) {
