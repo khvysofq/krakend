@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/devopsfaith/flatmap/tree"
-	"github.com/devopsfaith/krakend/config"
+	"github.com/khvysofq/krakend/config"
 )
 
 // EntityFormatter formats the response data

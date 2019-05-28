@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/khvysofq/krakend/config"
 )
 
 func TestEntityFormatterFunc(t *testing.T) {

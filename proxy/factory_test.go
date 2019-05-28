@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/logging"
-	"github.com/devopsfaith/krakend/sd"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/logging"
+	"github.com/khvysofq/krakend/sd"
 )
 
 func TestFactoryFunc(t *testing.T) {

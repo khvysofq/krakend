@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/devopsfaith/krakend/logging"
+	"github.com/khvysofq/krakend/logging"
 )
 
 func TestDebugHandler(t *testing.T) {

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/devopsfaith/krakend/encoding"
-	"github.com/devopsfaith/krakend/register"
-	"github.com/devopsfaith/krakend/sd"
+	"github.com/khvysofq/krakend/encoding"
+	"github.com/khvysofq/krakend/register"
+	"github.com/khvysofq/krakend/sd"
 )
 
 // REGISTRABLE_VAR is the name to lookup after loading the plugin for the module registering

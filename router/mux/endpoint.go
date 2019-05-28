@@ -8,10 +8,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/core"
-	"github.com/devopsfaith/krakend/proxy"
-	"github.com/devopsfaith/krakend/router"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/core"
+	"github.com/khvysofq/krakend/proxy"
+	"github.com/khvysofq/krakend/router"
 )
 
 const requestParamsAsterisk string = "*"

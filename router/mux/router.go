@@ -9,7 +9,7 @@ import (
 	"github.com/khvysofq/krakend/config"
 	"github.com/khvysofq/krakend/logging"
 	"github.com/khvysofq/krakend/proxy"
-	"github.com/devopsfaith/krakend/router"
+	"github.com/khvysofq/krakend/router"
 )
 
 // DefaultDebugPattern is the default pattern used to define the debug endpoint

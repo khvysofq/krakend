@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/logging"
-	"github.com/devopsfaith/krakend/proxy"
-	"github.com/devopsfaith/krakend/router"
-	"github.com/devopsfaith/krakend/router/mux"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/logging"
+	"github.com/khvysofq/krakend/proxy"
+	"github.com/khvysofq/krakend/router"
+	"github.com/khvysofq/krakend/router/mux"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 )

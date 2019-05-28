@@ -6,7 +6,7 @@ import (
 	"plugin"
 	"testing"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/khvysofq/krakend/config"
 )
 
 func TestLoad_ok(t *testing.T) {

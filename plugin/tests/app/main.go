@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/plugin"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/plugin"
 )
 
 const pluginName = "supu"

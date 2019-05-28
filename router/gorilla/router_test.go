@@ -11,10 +11,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/logging"
-	"github.com/devopsfaith/krakend/proxy"
-	"github.com/devopsfaith/krakend/router"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/logging"
+	"github.com/khvysofq/krakend/proxy"
+	"github.com/khvysofq/krakend/router"
 )
 
 func TestDefaultFactory_ok(t *testing.T) {
